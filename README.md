@@ -7,7 +7,7 @@ It is heavily weighted towards providing courses that have not been done in awhi
 is at the end of the course array, which means it hasn't been selected in the longest time. Any course that is selected is not
 even an option within the next 5 course selections. 
 
-I like my algorithm betther than Nintendo's. 
+I like my algorithm better than Nintendo's. 
 
 I then modified the program to simulate a race. Each racer is given a skill level, and the results are sorted by how they 
 finished in the race. 
