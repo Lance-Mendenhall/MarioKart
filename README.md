@@ -1,5 +1,5 @@
 # MarioKart
-I was playing MarioKart 8 awhile back. A random course was selected, and it was a course we had done perhaps 20 minutes ago.
+I was playing MarioKart 8 a while back. A random course was selected, and it was a course we had done perhaps 20 minutes ago.
 I didn't like that. There are 48 courses. Why were we doing one we had just done? So, I wrote a program that simulates course
 selection in MarioKart. 
 
